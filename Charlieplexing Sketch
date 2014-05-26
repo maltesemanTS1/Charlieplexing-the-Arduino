@@ -93,7 +93,7 @@ void loop()
   pinMode(LED_2, INPUT);
   digitalWrite(LED_2, LOW);
   pinMode(LED_3, OUTPUT);
-  digitalWrite(LED_3, HIGH);
+  digitalWrite(LED_3, LOW);
   
   delay(1000);
 }
